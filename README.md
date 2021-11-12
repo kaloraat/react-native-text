@@ -4,6 +4,10 @@ Text input component for react native that is easy to use and style
 
 ## how to use
 
+```
+import Text from "@kaloraat/react-native-text";
+```
+
 Pass these props for size
 
 ```
@@ -22,10 +26,10 @@ Pass these props for alignment
 center right
 ```
 
-## examples
+## example
 
 ```
-<Text bold center color="#ffffff">
+<Text title light center color="#0000b3">
     Sign Up
 </Text>
 ```
