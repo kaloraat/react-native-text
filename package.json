@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaloraat/reactnativetext.git"
+    "url": "git+https://github.com/kaloraat/react-native-text.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Ryan Dhungel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kaloraat/reactnativetext/issues"
+    "url": "https://github.com/kaloraat/react-native-text/issues"
   },
-  "homepage": "https://github.com/kaloraat/reactnativetext#readme",
+  "homepage": "https://github.com/kaloraat/react-native-text#readme",
   "dependencies": {
     "styled-components": "^5.3.3"
   }
