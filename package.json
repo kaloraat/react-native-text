@@ -1,0 +1,29 @@
+{
+  "name": "@kaloraat/react-native-text",
+  "version": "1.0.0",
+  "description": "Text input component for react native that is easy to use and style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaloraat/reactnativetext.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "text",
+    "component",
+    "style"
+  ],
+  "author": "Ryan Dhungel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaloraat/reactnativetext/issues"
+  },
+  "homepage": "https://github.com/kaloraat/reactnativetext#readme",
+  "dependencies": {
+    "styled-components": "^5.3.3"
+  }
+}
