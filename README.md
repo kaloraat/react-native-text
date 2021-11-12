@@ -4,6 +4,14 @@ Text input component for react native that is easy to use and style
 
 ## how to use
 
+install
+
+```
+npm i @kaloraat/react-native-text
+```
+
+import
+
 ```
 import Text from "@kaloraat/react-native-text";
 ```
