@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-
+// npm publish --access public
 export default TextStyle = ({ ...props }) => {
   return <Text {...props}>{props.children}</Text>;
 };
@@ -53,4 +53,3 @@ const Text = styled.Text`
     }
   }}
 `;
-

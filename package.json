@@ -1,6 +1,6 @@
 {
   "name": "@kaloraat/react-native-text",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Text input component for react native that is easy to use and style",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/kaloraat/react-native-text#readme",
   "dependencies": {
+    "react": "^17.0.2",
     "styled-components": "^5.3.3"
   }
 }
